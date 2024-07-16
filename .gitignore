@@ -1,2 +1,11 @@
 # ignore node modules
 node_modules/ .gitignore
+
+
+# git codes 
+# git config --global user.name "Your Name"
+# git status
+# git rm -r --cached node_modules
+# git add .
+# git commit -m "message(you can give versions)"
+
